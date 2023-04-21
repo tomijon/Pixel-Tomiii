@@ -4,4 +4,6 @@ In programming my interests are in:
   - Rendering
   - Physics
   - Memory Management
+
+
 I'm currently looking into SDL as I have been enjoying making random 2D games/simulations in pygame and would like some more power.
